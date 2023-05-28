@@ -1,0 +1,64 @@
+
+body{
+    background-image:url("/home/tarik/Desktop/KURSS/footballtips/cat-4419763_1920.jpg");
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.jokic{
+    
+    font-size: 20px;
+    background-color: white;
+    width: 60%;
+    text-align: center;
+    
+    margin: auto;
+    border-radius: 50px;
+  
+}
+
+.srdjan{
+    font-size: 30px;
+    background-color: lightgreen;
+    width: 65%;
+    margin: auto;
+    height:150px;
+    text-align: center;
+    border-radius: 50px;
+
+    
+ 
+    
+}
+
+/* Styles for tablet */
+@media screen and (max-width: 768px) {
+    .container {
+      width: 720px;
+      
+    }
+  }
+  
+  /* Styles for mobile */
+  @media screen and (max-width: 480px) {
+    .container {
+      width: 320px;
+      
+    }
+  }
+  footer{
+    
+    font-size: 20;
+    background-color: white;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    border-radius: 50px;
+  
+}
+.reddit{
+    font-size: 30px;
+    text-align: center;
+    border-radius: 50px;
+}
+
